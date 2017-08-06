@@ -1,0 +1,11 @@
+{
+  "name": "finder",
+  "version": "1.0.0",
+  "description": "find specific file with a given directory",
+  "main": "finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "feikerwu@gmail.com",
+  "license": "ISC"
+}
